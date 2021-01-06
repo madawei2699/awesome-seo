@@ -35,16 +35,16 @@
 > SEO里很重要一个方向是内容营销，这篇文章是反向链接研究大佬Brian Dean写的关于内容营销的建议。
 
 [Here’s What We Learned About SEO](https://backlinko.com/search-engine-ranking)
-
 > 这篇通过大量数据分析研究搜索引擎排名的影响因素。
 
 [What Is SEO Writing? How to Be a Better SEO Writer](https://ahrefs.com/blog/seo-writing/)
-
 > 基于SEO的写作建议和框架。
 
 [The Authority Site Business Model](https://www.authorityhacker.com/what-is-an-authority-site/)
-
 > 英文内容站从建设到盈利的一条龙流程介绍文章。
+
+[什么是SEO](https://www.bmpi.dev/dev/what-is-seo/)
+> （软广来了）学习SEO两年，这是我写的一篇关于SEO介绍的文章。
 
 ## 工具
 
@@ -86,10 +86,54 @@
 
 [spyfu](https://www.spyfu.com/)
 
+## Chrome插件
+
+[SimilarWeb](https://chrome.google.com/webstore/detail/similarweb-traffic-rank-w/hoklmmgfnpapgjgcpechhaamimifchmp)
+> 查看网站PV流量的工具，但是结果有时候准确，有时候偏差挺大的。
+
+[SEOquake](https://chrome.google.com/webstore/detail/seoquake/akdgnmcogleenhbclghghlkkdndkjdjc)
+> 查看网站的SEO相关的信息，如外链数量、索引数量、SEO的站内问题等。
+
+[Keyword Surfer](https://chrome.google.com/webstore/detail/keyword-surfer/bafijghppfhdpldihckdcadbcobikaca)
+> 关键词工具，可以查看一些关键词的月搜索量。也可以用Google Ads的Keyword Planner查看关键词的月搜索量。
+
+[SEO Minion](https://chrome.google.com/webstore/detail/seo-minion/giihipjfimkajhlcilipnjeohabimjhi)
+> 网站常见站内问题检视工具。
+
+[META SEO inspector](https://chrome.google.com/webstore/detail/meta-seo-inspector/ibkclpciafdglkjkcibmohobjkcfkaef)
+> 网页Meta信息查看工具。
+
 ## 博客/Twitter
 
-[SEO](https://twitter.com/i/lists/1341048200677842950)
+[SEO Twitter List](https://twitter.com/i/lists/1341048200677842950)
 > 我整理的一些SEO大佬的Twitter列表。
+
+[backlinko](https://backlinko.com/)
+> 反向链接研究大佬Brian Dean的博客。
+
+[谷歌网站管理员中心博客](https://developers.google.com/search/blog)
+> Google出品。
+
+[ahrefs blog](https://ahrefs.com/blog/)
+> ahrefs高质量的SEO博客，不过会在文章中推销他们价格感人的分析工具。
+
+[moz](https://moz.com/blog)
+> moz高质量的SEO博客。
+
+[英文SEO实战派](https://www.seoactionblog.com/)
+> 作者Nice，对Google英文内容站很有研究。
+
+[富裕者联盟](https://www.fuyuzhe.com/)
+> Affiliate大佬，可以学习一些网赚技术。
+
+[Harris](https://www.yesharris.com/learning-seo-menu/)
+> SEO知识时效性强的台湾博客。
+
+[SEO前线](http://seoqx.com/)
+> 对百度SEO很有研究的noname大佬的博客。
+
+[其他SEO相关博客](https://ahrefs.com/blog/seo-blogs/)
+> ahrefs整理的其他SEO相关的博客。
 
 ## 社区
 
