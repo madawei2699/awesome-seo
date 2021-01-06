@@ -1,6 +1,6 @@
 # awesome-seo
 
-本清单是我在自2019年开始系统性学习Google SEO而整理的。
+本清单是我在自2019年开始系统性学习Google SEO而整理的。清单我会不定期更新，也欢迎大家提PR分享你觉得不错的任何关于SEO的链接。
 
 百度SEO和Google SEO是有差异的，不过在你学会Google SEO后，你自然知道如何去学习百度SEO了。
 
