@@ -4,6 +4,33 @@
 
 百度SEO和Google SEO是有差异的，不过在你学会Google SEO后，你自然知道如何去学习百度SEO了。
 
+<details>
+  <summary>关于为何要做SEO</summary>
+  在互联网中，流量就是钱。掌握一定的SEO技术，可以让你：
+
+  - 提升自己的网站流量，通过流量变现去盈利，构建你的被动收入；
+  - 如果你做个人产品，产品需要去营销推广，而SEO可以帮你获取免费而稳定增长的流量；
+  - SEO是个涉及面很广的行业，你还可以在此过程中不断的学习掌握一些新的技术。
+</details>
+
+<details>
+  <summary>我的SEO经历</summary>
+  
+  ![](https://img.bmpi.dev/5494437c-08e0-0d08-5f91-6bdb4fcdece6.png)
+
+  这是我做过的一个流量站，这么多流量最终让我赚了近乎1500美刀的广告收入。对于SEO大佬来说，这些流量不值一提，但是对于个人开发者来说，这是一项值得长期投资的技能。
+</details>
+
+<details>
+  <summary>电报/微信群交流</summary>
+  
+  国内正经搞SEO的已经不多了，个人开发者搞SEO的更是少之又少，如果对SEO/流量获取感兴趣，可以加入我的电报群组：[web_cpc](https://t.me/web_cpc)。也可以加我的个人微信拉你进微信群组：
+
+  ![](https://img.bmpi.dev/755b406f-43ae-e382-e13c-547116d3e7d5.png)
+</details>
+
+---
+
 ## 教程
 
 [Google站长指南](https://developers.google.com/search/docs/advanced/guidelines/overview?ref_topic=9428048&visit_id=637455340508159753-1629045620&rd=1)
