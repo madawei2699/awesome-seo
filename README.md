@@ -148,7 +148,7 @@
 > moz高质量的SEO博客。
 
 [英文SEO实战派](https://www.seoactionblog.com/)
-> 作者Nice，对Google英文内容站很有研究。
+> 作者John，对Google英文内容站很有研究。
 
 [富裕者联盟](https://www.fuyuzhe.com/)
 > Affiliate大佬，可以学习一些网赚技术。
