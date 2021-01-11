@@ -73,6 +73,9 @@
 [什么是SEO](https://www.bmpi.dev/dev/what-is-seo/)
 > （软广来了）学习SEO两年，这是我写的一篇关于SEO介绍的文章。
 
+[Logfile Analysis for SEO](https://www.suganthan.com/blog/logfile-analysis-seo/)
+> 此篇文章详细讲解了如何分析网站访问日志来发现SEO中的问题。GA可以帮助我们了解用户访问情况，系统日志能帮助我们更好的了解爬虫请求、网站技术性SEO问题如301跳转等问题。
+
 ## 工具
 
 [ahrefs](https://ahrefs.com/)
