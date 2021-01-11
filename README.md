@@ -31,6 +31,10 @@
 
 ---
 
+## 基础概念
+
+[![什么是SEO](https://img.bmpi.dev/227e91cc-a2a8-942e-19fe-8246d9a7abbd.png)](https://www.bmpi.dev/dev/what-is-seo/)
+
 ## 教程
 
 [Google站长指南](https://developers.google.com/search/docs/advanced/guidelines/overview?ref_topic=9428048&visit_id=637455340508159753-1629045620&rd=1)
