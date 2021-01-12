@@ -29,6 +29,12 @@
   ![](https://img.bmpi.dev/755b406f-43ae-e382-e13c-547116d3e7d5.png)
 </details>
 
+<details>
+  <summary>Stargazers over time</summary>
+  
+  [![Stargazers over time](https://starchart.cc/madawei2699/awesome-seo.svg)](https://starchart.cc/madawei2699/awesome-seo)
+</details>
+
 ---
 
 ## 基础概念
