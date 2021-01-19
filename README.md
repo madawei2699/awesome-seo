@@ -126,6 +126,14 @@
 
 [spyfu](https://www.spyfu.com/)
 
+## Google Adsense
+
+[Google Ads Benchmarks for YOUR Industry](https://www.wordstream.com/blog/ws/2016/02/29/google-adwords-industry-benchmarks)
+> Last updated: October 5, 2020. 了解每个行业的吸金能力。
+
+[如何准确查询关键词热度和搜索量](https://www.onepound.cn/article_info-144.html)
+> 了解热度，规避红海竞争。
+
 ## Chrome插件
 
 [SimilarWeb](https://chrome.google.com/webstore/detail/similarweb-traffic-rank-w/hoklmmgfnpapgjgcpechhaamimifchmp)
