@@ -126,14 +126,6 @@
 
 [spyfu](https://www.spyfu.com/)
 
-## Google Adsense
-
-[Google Ads Benchmarks for YOUR Industry](https://www.wordstream.com/blog/ws/2016/02/29/google-adwords-industry-benchmarks)
-> Last updated: October 5, 2020. 了解每个行业的吸金能力。
-
-[如何准确查询关键词热度和搜索量](https://www.onepound.cn/article_info-144.html)
-> 了解热度，规避红海竞争。
-
 ## Chrome插件
 
 [SimilarWeb](https://chrome.google.com/webstore/detail/similarweb-traffic-rank-w/hoklmmgfnpapgjgcpechhaamimifchmp)
@@ -202,6 +194,14 @@
 [![](https://nitrocdn.com/PeiOvTsoVfAfszUghthruGjpwvDyviLS/assets/static/optimized/rev-ce680e7/wp-content/uploads/2018/10/diversification-of-revenue.jpg)](https://www.authorityhacker.com/what-is-an-authority-site/)
 
 流量网站的目的是提高[RPM](https://tg.bmpi.dev/web_cpc/420.html)，除了广告之外网站还可以接入Affiliate（类似国内淘宝客，你帮商家推广产品自己拿佣金或返利）和售卖实体或虚拟产品（会员、课程）来提高RPM。
+
+### Google Adsense
+
+[Google Ads Benchmarks for YOUR Industry](https://www.wordstream.com/blog/ws/2016/02/29/google-adwords-industry-benchmarks)
+> Last updated: October 5, 2020. 了解每个行业的吸金能力。
+
+[如何准确查询关键词热度和搜索量](https://www.onepound.cn/article_info-144.html)
+> 了解热度，规避红海竞争。
 
 ## 其他
 
