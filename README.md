@@ -1,189 +1,197 @@
 # awesome-seo
 
-本清单是我在自2019年开始系统性学习Google SEO而整理的。清单我会不定期更新，也欢迎大家提PR分享你觉得不错的任何关于SEO的链接。
+The checklists has being sort out, since i systemly study Google SEO in 2019.
+The checklists would be update from time to time. 
+Meanwhile, welcome to check in PR, and share the great links about SEO.
 
-百度SEO和Google SEO是有差异的，不过在你学会Google SEO后，你自然知道如何去学习百度SEO了。
+Although there has difference between Baidu SEO and Google SEO. When you learned the Google SEO, you would understand how to learn Baidu SEO.
 
 <details>
-  <summary>关于为何要做SEO</summary>
-  在互联网中，流量就是钱。掌握一定的SEO技术，可以让你：
-
-  - 提升自己的网站流量，通过流量变现去盈利，构建你的被动收入；
-  - 如果你做个人产品，产品需要去营销推广，而SEO可以帮你获取免费而稳定增长的流量；
-  - SEO是个涉及面很广的行业，你还可以在此过程中不断的学习掌握一些新的技术。
+  <summary>SEO, Why Do You Need It?</summary>
+On the Internet, website traffic can be turned into money. When you have mastered certain SEO techniques, you will have the advantages as follow:  
+  - Increase website traffic, then monetize traffic to make money, and build your passive income.
+  - If you has individual product, and the product need to be marketed and promoted. SEO can help you get free and steadily growing traffic.
+  - SEO industry covers a wide range of fields. You can study some new technologies in research SEO process.
 </details>
 
 <details>
-  <summary>我的SEO经历</summary>
-  
+  <summary>My SEO Experience</summary>
+
   ![](https://img.bmpi.dev/5494437c-08e0-0d08-5f91-6bdb4fcdece6.png)
 
-  这是我做过的一个流量站，这么多流量最终让我赚了近乎1500美刀的广告收入。对于SEO大佬来说，这些流量不值一提，但是对于个人开发者来说，这是一项值得长期投资的技能。
+This is the traffic site i made. I earn almost $1500 US in advertising revenue.
+For SEO masters, maybe those amount of website traffic is too ordinary. However, for personal developer, this skills is worth for long-term investment.
 </details>
 
 <details>
-  <summary>电报/微信群交流</summary>
-  
-  国内正经搞SEO的已经不多了，个人开发者搞SEO的更是少之又少，如果对SEO/流量获取感兴趣，可以加入我的电报群组：[web_cpc](https://t.me/web_cpc)。也可以加我的个人微信拉你进微信群组：
-
+  <summary>Telegram/WeChat Group</summary>
+Around the world, some teams and individuals are doing research in SEO.
+If interested in SEO or traffic acquisition, you can join my telegram group.[web_cpc](https://t.me/web_cpc)
+Of course, you also can add my WeChat account, then i will add you into WeChat group.
   ![](https://img.bmpi.dev/755b406f-43ae-e382-e13c-547116d3e7d5.png)
 </details>
 
 <details>
   <summary>Stargazers over time</summary>
-  
+
   [![Stargazers over time](https://starchart.cc/madawei2699/awesome-seo.svg)](https://starchart.cc/madawei2699/awesome-seo)
 </details>
 
 ---
 
-## 基础概念
+## Basic Concept
 
-[![什么是SEO](https://img.bmpi.dev/227e91cc-a2a8-942e-19fe-8246d9a7abbd.png)](https://www.bmpi.dev/dev/what-is-seo/)
+![What is SEO](./out/Seo/Seo.png)
 
-## 教程
+## Tutorials
 
-[Google站长指南](https://developers.google.com/search/docs/advanced/guidelines/overview?ref_topic=9428048&visit_id=637455340508159753-1629045620&rd=1)
-> 站长指南，搞SEO必看。
+[Google Webmaster Guidelines](https://developers.google.com/search/docs/advanced/guidelines/overview?ref_topic=9428048&visit_id=637455340508159753-1629045620&rd=1)
+> Webmaster Guidelines, must-read for SEO.
 
 [The Beginner's Guide to SEO](https://moz.com/beginners-guide-to-seo)
-> Moz的SEO新手教程，可以系统性学习SEO。
+> SEO beginners tutorial on the Moz web, help you learn SEO systematically。
 
 [The Authority Site System 3.0](https://www.authorityhacker.com/system/)
-> 这个课程是关于如何从零构建权威站（英文Niche站）并变现的，SEO只是其中一部分，还包括Affiliate，付费广告等。（课程费用比较贵，我还没开始学）
+> This course is about how to build an authority site ( Niche Site) from scratch and make money from it. SEO is only part of it, it also includes Affiliates, Paid-advertising etc. (The course is more expensive and I haven't started it yet)
 
-## 图书
 
-[SEO艺术](https://book.douban.com/subject/34890213/)
-> 国内的SEO垃圾书很多，这本是国外SEO三位大佬合写，第三版是2015年写的，时效性还行，如果只看一本关于SEO书的话，这本就够了。
+## Books
 
-[这就是搜索引擎](https://book.douban.com/subject/7006719/)
-> 这本书是科普搜索引擎内部技术的，虽然搞SEO不需要了解搜索引擎内部实现，但是对于一些技术性优化，了解一些搜索引擎的特点有助于你从宏观局面优化网站。
+[The Art of SEO](https://book.douban.com/subject/3780812/)
+> In this book, four of the most noted experts in the field of search engine optimization (SEO) provide you with proven guidelines and cutting-edge techniques. The third edition was written in 2015, so if you only read one book about SEO, this is the best option.
 
-## 文章/视频
+[这就是搜索引擎](https://book.douban.com/subject/7006719/)(Chinese Book)
+> This book is about the internal technology of popular science search engines. Although SEO does not need to understand the internal implementation of search engines, for some technical optimization, understanding the characteristics of some search engines will help you optimize your website from a macro perspective.
+
+## Article/Video
 
 [How Search Works](https://www.youtube.com/watch?v=BNHR6IQJGZs)
-> Google出品的关于搜索引擎科普小视频。
+> The videos about popular science search engine that Google published.
 
 [12 SEO Best Practices That Everyone Should Follow](https://ahrefs.com/blog/seo-best-practices/)
-> ahrefs写的关于SEO的最佳实践。
+> SEO best practices that Ahrefs write.
 
 [17 Actionable Content Marketing Tips For More Traffic](https://backlinko.com/content-marketing-tips)
-> SEO里很重要一个方向是内容营销，这篇文章是反向链接研究大佬Brian Dean写的关于内容营销的建议。
+> The content marketing is one of important directions in SEO. The article content mainly involves content marketing suggestions, and it written by Brian Dean who research backlink.
 
 [Here’s What We Learned About SEO](https://backlinko.com/search-engine-ranking)
-> 这篇通过大量数据分析研究搜索引擎排名的影响因素。
+> The article studies the factors influencing search engine rankings through large amounts of data analysis.
 
 [What Is SEO Writing? How to Be a Better SEO Writer](https://ahrefs.com/blog/seo-writing/)
-> 基于SEO的写作建议和框架。
+> The article mainly introduce the writing framework of SEO, and suggestions about how to be a better SEO write.
 
 [The Authority Site Business Model](https://www.authorityhacker.com/what-is-an-authority-site/)
-> 英文内容站从建设到盈利的一条龙流程介绍文章。
+> The article introduce the whole process that an authority site from construction to profitability.
 
-[零成本搭建SEO友好博客指南](https://www.bmpi.dev/series/%E9%9B%B6%E6%88%90%E6%9C%AC%E6%90%AD%E5%BB%BA%E7%8E%B0%E4%BB%A3%E5%8D%9A%E5%AE%A2%E6%8C%87%E5%8D%97/)
-> 从零开始打造一个SEO友好的博客，涵盖博客搭建、SEO优化、订阅推送、国内及国外网站加载速度优化。
+[零成本搭建SEO友好型博客指南](https://www.bmpi.dev/series/%E9%9B%B6%E6%88%90%E6%9C%AC%E6%90%AD%E5%BB%BA%E7%8E%B0%E4%BB%A3%E5%8D%9A%E5%AE%A2%E6%8C%87%E5%8D%97/)(Chinese Blogs)
+
+> This is a series of blogs that introduces how to build a SEO from scratch. These blogs content covered blog building, SEO optimization, subcribe and push, website loading speed optimization.
 
 [Logfile Analysis for SEO](https://www.suganthan.com/blog/logfile-analysis-seo/)
-> 此篇文章详细讲解了如何分析网站访问日志来发现SEO中的问题。GA可以帮助我们了解用户访问情况，系统日志能帮助我们更好的了解爬虫请求、网站技术性SEO问题如301跳转等问题。
+> This article detail explains how to analyse website access logs to identify problems in SEO. Google Analytics can help us understand user access, and system logs can help us better understand crawler requests, website techical SEO issues such as 301 redirects and so on.
 
 ### Google Ads
 
 [Google Ads Benchmarks for YOUR Industry](https://www.wordstream.com/blog/ws/2016/02/29/google-adwords-industry-benchmarks)
-> Last updated: October 5, 2020. 了解每个行业的吸金能力。
+> Last updated: October 5, 2020. 
+> It can help to learn about the money-sucking power of each industry.
 
-[如何准确查询关键词热度和搜索量](https://www.onepound.cn/article_info-144.html)
-> 了解热度，规避红海竞争。
+[如何准确查询关键词热度和搜索量](https://www.onepound.cn/article_info-144.html)(Chinese Website)
 
-## 工具
+> For knowing what's hot on the web and avoiding Red Sea competition.
+
+## Tools
 
 [ahrefs](https://ahrefs.com/)
-> 价格感人的SEO全面分析工具，如果有钱必备吧。
+> SEO conprehensive analysis tool. 
 
 [semrush](https://www.semrush.com/)
-> 价格感人的SEO全面分析工具，如果有钱必备吧。
+> SEO conprehensive analysis tool. 
 
 [webpagetest](https://www.webpagetest.org/)
-> 网站测速工具，技术性SEO优化必备。
+> Website speed measurement tool, essential for technical SEO optimization.
 
 [google pagespeed insights](https://developers.google.com/speed/pagespeed/insights/)
-> 网站测速工具，技术性SEO优化必备。
+> Website speed measurement tool, essential for technical SEO optimization.
 
 [majestic](https://majestic.com/)
-> 网站反向链接分析插件。
+> Website Backlink Analysis Plugins. 
 
 [moz](https://moz.com/)
-> Open Site Explorer/MozBar插件。
+> Open Site Explorer/MozBar Plugins. 
 
 [linkresearchtools](https://smart.linkresearchtools.com/seo-tools/free-seo-tools/)
-> 免费SEO工具。
+> Free SEO Tools. 
 
 [raventools](https://raventools.com/)
-> 链接建设全面工具箱。
+> A comprehensive toolbox for link building. 
 
 [authoritylabs](https://www.authoritylabs.com/)
-> 跟踪搜索引擎排名/解决GA关键词未提供问题。
+> Track search engine rankings / Solve the problem of GA that keywords not provided.
 
 [alexa](https://www.alexa.com/)
-> 网站流量查看/数据来源与用户系统安装的Alexa工具栏，也可能从ISP厂商获取的数据。
+> View website traffic.  The data comes from the Alexa toolbar installed on the user's system, or it may be obtained from the ISP manufacturer.
 
 [quantcast](https://www.quantcast.com/)
-> 网站流量查看工具。
+
+> Website Traffic View Tools. 
 
 [seoquake](https://www.seoquake.com/index.html)
-> semrush出品的SEO Chrome插件。
+> SEO Chrome Plugin that published by semrush. 
 
 [spyfu](https://www.spyfu.com/)
 
-## Chrome插件
+## Chrome Plugins
 
 [SimilarWeb](https://chrome.google.com/webstore/detail/similarweb-traffic-rank-w/hoklmmgfnpapgjgcpechhaamimifchmp)
-> 查看网站PV流量的工具，但是结果有时候准确，有时候偏差挺大的。
+> The plugin to check the PV traffic of website. But the results are sometimes accurate and sometimes biased.
 
 [SEOquake](https://chrome.google.com/webstore/detail/seoquake/akdgnmcogleenhbclghghlkkdndkjdjc)
-> 查看网站的SEO相关的信息，如外链数量、索引数量、SEO的站内问题等。
+> Check the SEO-related information of the website, such as the number of external links, the number of indexes, and SEO Internal website issues, etc.
 
 [Keyword Surfer](https://chrome.google.com/webstore/detail/keyword-surfer/bafijghppfhdpldihckdcadbcobikaca)
-> 关键词工具，可以查看一些关键词的月搜索量。也可以用Google Ads的Keyword Planner查看关键词的月搜索量。
+> This is a keyword tool to view monthly search volume for a number of keywords. 
+> Of course, you also can use Keyword Planner of Google Ads to view monthly search volume for a number of keywords. 
 
 [SEO Minion](https://chrome.google.com/webstore/detail/seo-minion/giihipjfimkajhlcilipnjeohabimjhi)
-> 网站常见站内问题检视工具。
+> The view tool for common internal issues of website.
 
 [META SEO inspector](https://chrome.google.com/webstore/detail/meta-seo-inspector/ibkclpciafdglkjkcibmohobjkcfkaef)
-> 网页Meta信息查看工具。
+> The view tool for meta data of website.
 
-## 博客/Twitter
+## Blog/Twitter
 
 [SEO Twitter List](https://twitter.com/i/lists/1341048200677842950)
-> 我整理的一些SEO大佬的Twitter列表。
+> The list mainly show SEO masters Twitter.
 
 [backlinko](https://backlinko.com/)
-> 反向链接研究大佬Brian Dean的博客。
+> Brian Dean’s Blog (He has some achievements in backlink research.)
 
-[谷歌网站管理员中心博客](https://developers.google.com/search/blog)
-> Google出品。
+[Google Search Central Blog](https://developers.google.com/search/blog)
+> Published by Google.
 
 [ahrefs blog](https://ahrefs.com/blog/)
-> ahrefs高质量的SEO博客，不过会在文章中推销他们价格感人的分析工具。
+> High-quality blogs about SEO that published by ahrefs. 
 
 [moz](https://moz.com/blog)
-> moz高质量的SEO博客。
+> High-quality blogs about SEO that published by moz. 
 
-[英文SEO实战派](https://www.seoactionblog.com/)
-> 作者John，对Google英文内容站很有研究。
+[英文SEO实战派](https://www.seoactionblog.com/)(Chinese Blog)
+> Author: John. He has amount of research on Google Authority Site.
 
-[富裕者联盟](https://www.fuyuzhe.com/)
-> Affiliate大佬，可以学习一些网赚技术。
+[富裕者联盟](https://www.fuyuzhe.com/)(Chinese Blog)
+> The author is Affiliate master, It can help you learn some online earning techniques.
 
-[Harris](https://www.yesharris.com/learning-seo-menu/)
-> SEO知识时效性强的台湾博客。
+[Harris](https://www.yesharris.com/learning-seo-menu/)(Chinese Blog)
+> About SEO Timeliness.
 
-[SEO前线](http://seoqx.com/)
-> 对百度SEO很有研究的noname大佬的博客。
+[SEO前线](http://seoqx.com/)(Chinese Blog)
+> Author: noname. He main research Baidu SEO.
 
-[其他SEO相关博客](https://ahrefs.com/blog/seo-blogs/)
-> ahrefs整理的其他SEO相关的博客。
+[Other](https://ahrefs.com/blog/seo-blogs/)
+> Collected by ahrefs.
 
-## 社区
+## Community
 
 [Reddit SEO](https://www.reddit.com/r/SEO/hot/)
 
@@ -193,20 +201,23 @@
 
 [Warrior Forum](https://www.warriorforum.com/)
 
-> 以上社区我都没怎么混过，只是偶尔会看一些帖子，如果你们有好的社区可以给我PR。
+> If you want to recommend other good communities, please commit PR.
 
-## 流量变现
+## Traffic Monetization
 
-当有了一定的SEO流量（如月PV达1万），如何将SEO流量变现是个更重要的课题。一般来说我们可以通过广告平台如Google Adsense集成[互联网广告](https://www.bmpi.dev/dev/what-is-internet-advertising/)，这种英文CPM/CPC一般并不高（广告CPM/CPC取决于网站的内容/地区，不同内容广告的CPM/CPC范围介于$0.3-$2/$0.2-$15之间)，而中文站的流量广告价值更低（相比英文站）。
+When there is a certain amount of SEO traffic(such as monthly PV reaching 10,000), how to monetize SEO traffic is a more important topic. Gernerally speaking, we can integrate [Internet Advertising](https://www.bmpi.dev/dev/what-is-internet-advertising/) through advertising platforms such as Google Adsense.
+This CPM/CPC is generally not high, Advertising CPM/CPC depends on the content/region of website. The CPM/CPC range of different content ads is between $0.3-$2.0/$0.2-$15.
 
-[![](https://nitrocdn.com/PeiOvTsoVfAfszUghthruGjpwvDyviLS/assets/static/optimized/rev-ce680e7/wp-content/uploads/2018/10/diversification-of-revenue.jpg)](https://www.authorityhacker.com/what-is-an-authority-site/)
+![](https://img.bmpi.dev/91bc8569-0fdc-ea98-478e-33d63205f340.png)
 
-流量网站的目的是提高[RPM](https://tg.bmpi.dev/web_cpc/420.html)，除了广告之外网站还可以接入Affiliate（类似国内淘宝客，你帮商家推广产品自己拿佣金或返利）和售卖实体或虚拟产品（会员、课程）来提高RPM。
+The purpose of the traffic site is to improve [RPM](https://tg.bmpi.dev/web_cpc/420.html). In addition to advertising, the website can also access Affiliate and selling products(members, courses) to increase RPM.
 
-## 其他
+## Other
 
 [Google Algorithm Update History](https://moz.com/google-algorithm-change)
-> Google目前比较重要的一些算法有熊猫算法、企鹅算法及蜂鸟算法等。这是Moz追踪Google搜索算法的更新页面。
+> Currently, Google has some of more important Google algorithms include the Panda algorithm, the Penguin algorithm, and the Hummingbird algorithm.
+> This is the page that Moz tracks updates to Google's search algorithm.
 
 [State of the Web](https://httparchive.org/reports/state-of-the-web)
-> httparchive出的关于互联网HTTP相关的一些重要统计数据的报告。
+> Some reports on important statistics related to HTTP on the Internet, published by httparchive. 
+
