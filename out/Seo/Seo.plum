@@ -1,0 +1,53 @@
+@startmindmap
+skinparam monochrome true
+* SEO
+** Site Optimization
+*** Keywords Optimization
+**** Google Keyword Tips
+**** Adwords keyword planner
+**** Long Tail Keywords
+*** Content Optimization
+**** Content Types
+**** Content Structure
+**** Content Angle
+*** Navigation
+*** Title
+*** Image (Alt)
+*** Meta Information
+*** URL
+*** Internal Link Optimization
+** Technical Optimization
+*** Site Page Structure
+*** UX User Experience (Improve Dwell Time)
+*** Mobile Adaptation
+*** Usability
+*** Loading Speed
+*** Page Indexing
+*** Canonical ( Unique URL )
+*** Duplicate Content Detection
+*** Percentage of 404 Error Pages
+*** Redirects
+*** Sitemap.xml
+*** Robots.txt
+*** Structured Data
+** Off-site Optimization
+*** Backlinks
+**** Community Promotion
+**** Social Networking Sites
+**** Links
+*** Website Authority
+*** Competitor Analysis
+** Monitoring and tracking
+*** GA
+**** Pageviews
+**** Bounce Rate
+**** Dwell Time
+**** Search Keywords
+**** Most Popular Pages
+**** Most Exited Pages
+*** Google Search Console
+** Resource Tools
+*** Resources
+*** Tools
+**** Chrome SEO Extension
+@endmindmap
