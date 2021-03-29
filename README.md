@@ -10,6 +10,7 @@ Although there has difference between Baidu SEO and Google SEO. When you learned
 
 <details>
   <summary>SEO, Why Do You Need It?</summary>
+
 On the Internet, website traffic can be turned into money. When you have mastered certain SEO techniques, you will have the advantages as follow:  
   - Increase website traffic, then monetize traffic to make money, and build your passive income.
   - If you has individual product, and the product need to be marketed and promoted. SEO can help you get free and steadily growing traffic.
