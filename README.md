@@ -1,5 +1,7 @@
 # awesome-seo
 
+[中文/Chinese](./README_CN.md)
+
 The checklists has being sort out, since i systemly study Google SEO in 2019.
 The checklists would be update from time to time. 
 Meanwhile, welcome to check in PR, and share the great links about SEO.
@@ -25,10 +27,12 @@ For SEO masters, maybe those amount of website traffic is too ordinary. However,
 
 <details>
   <summary>Telegram/WeChat Group</summary>
+
 Around the world, some teams and individuals are doing research in SEO.
-If interested in SEO or traffic acquisition, you can join my telegram group.[web_cpc](https://t.me/web_cpc)
+If interested in SEO or traffic acquisition, you can join my telegram group [web_cpc](https://t.me/web_cpc).
 Of course, you also can add my WeChat account, then i will add you into WeChat group.
-  ![](https://img.bmpi.dev/755b406f-43ae-e382-e13c-547116d3e7d5.png)
+
+![](https://img.bmpi.dev/755b406f-43ae-e382-e13c-547116d3e7d5.png)
 </details>
 
 <details>
