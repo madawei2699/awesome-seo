@@ -46,7 +46,7 @@ Of course, you also can add my WeChat account, then i will add you into WeChat g
 
 ## Basic Concept
 
-![What is SEO](./out/Seo/Seo.png)
+![What is SEO](https://img.bmpi.dev/4351f5c8-cc00-d2a8-a75f-9010c9367893.png)
 
 ## Tutorials
 
