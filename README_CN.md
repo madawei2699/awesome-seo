@@ -29,7 +29,7 @@
 
   国内正经搞SEO的已经不多了，个人开发者搞SEO的更是少之又少，如果对SEO/流量获取感兴趣，可以加入我的电报群组：[web_cpc](https://t.me/web_cpc)。也可以加我的个人微信拉你进微信群组：
 
-  ![](https://img.bmpi.dev/755b406f-43ae-e382-e13c-547116d3e7d5.png)
+  ![](https://img.bmpi.dev/a0ff26e9-23ec-ffee-08b2-22c19c026e8a.png)
 </details>
 
 <details>
