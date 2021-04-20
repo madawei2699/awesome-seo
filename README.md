@@ -2,19 +2,19 @@
 
 [中文/Chinese](./README_CN.md)
 
-The checklists has being sort out, since i systemly study Google SEO in 2019.
-The checklists would be update from time to time. 
-Meanwhile, welcome to check in PR, and share the great links about SEO.
+The checklist has been being sorted out since I systematically studied Google SEO in 2019.
+The checklist would be updated from time to time. 
+Meanwhile, welcome to check in PRs, and share the great links about SEO.
 
-Although there has difference between Baidu SEO and Google SEO. When you learned the Google SEO, you would understand how to learn Baidu SEO.
+There are differences between Baidu SEO and Google SEO. If you have learned the Google SEO, you would understand how to learn Baidu SEO.
 
 <details>
   <summary>SEO, Why Do You Need It?</summary>
 
-On the Internet, website traffic can be turned into money. When you have mastered certain SEO techniques, you will have the advantages as follow:  
-  - Increase website traffic, then monetize traffic to make money, and build your passive income.
-  - If you has individual product, and the product need to be marketed and promoted. SEO can help you get free and steadily growing traffic.
-  - SEO industry covers a wide range of fields. You can study some new technologies in research SEO process.
+On the Internet, website traffic can be turned into money. If you have mastered certain SEO techniques, you will have the advantages as following:  
+  - Increase website traffic, then monetize traffic, and build your passive income.
+  - If you have individual product, and the product need to be marketed and promoted. SEO can help you get free and steadily growing traffic.
+  - SEO industry covers a wide range of fields. You can study some new technologies in researching SEO process.
 </details>
 
 <details>
@@ -22,16 +22,16 @@ On the Internet, website traffic can be turned into money. When you have mastere
 
   ![](https://img.bmpi.dev/5494437c-08e0-0d08-5f91-6bdb4fcdece6.png)
 
-This is the traffic site i made. I earn almost $1500 US in advertising revenue.
-For SEO masters, maybe those amount of website traffic is too ordinary. However, for personal developer, this skills is worth for long-term investment.
+This is the traffic site I made. I earned almost $1500 US in advertising revenue.
+For SEO masters, maybe those amount of website traffic is too ordinary. However, for personal developer, these skills are worthy for long-term investment.
 </details>
 
 <details>
   <summary>Telegram/WeChat Group</summary>
 
-Around the world, some teams and individuals are doing research in SEO.
+Around the world, some teams and individuals are doing researches in SEO.
 If interested in SEO or traffic acquisition, you can join my telegram group [web_cpc](https://t.me/web_cpc).
-Of course, you also can add my WeChat account, then i will add you into WeChat group.
+Of course, you can also add my WeChat account, so that I will add you into WeChat group.
 
 ![](https://img.bmpi.dev/755b406f-43ae-e382-e13c-547116d3e7d5.png)
 </details>
@@ -54,19 +54,19 @@ Of course, you also can add my WeChat account, then i will add you into WeChat g
 > Webmaster Guidelines, must-read for SEO.
 
 [The Beginner's Guide to SEO](https://moz.com/beginners-guide-to-seo)
-> SEO beginners tutorial on the Moz web, help you learn SEO systematically。
+> SEO beginners tutorial on the Moz web, helps you learn SEO systematically.
 
 [The Authority Site System 3.0](https://www.authorityhacker.com/system/)
-> This course is about how to build an authority site ( Niche Site) from scratch and make money from it. SEO is only part of it, it also includes Affiliates, Paid-advertising etc. (The course is more expensive and I haven't started it yet)
+> This course is about how to build an authority site ( Niche Site) from scratch and make money from it. SEO is only a part of it, it also includes Affiliates, Paid-advertising etc. (The course is pretty expensive, and I haven't started it yet)
 
 
 ## Books
 
 [The Art of SEO](https://book.douban.com/subject/3780812/)
-> In this book, four of the most noted experts in the field of search engine optimization (SEO) provide you with proven guidelines and cutting-edge techniques. The third edition was written in 2015, so if you only read one book about SEO, this is the best option.
+> In this book, four of the most noted experts in the field of search engine optimization (SEO) provide you with proven guidelines and cutting-edge techniques. The third edition was written in 2015, so if you only want to read one book about SEO, this book is the best option.
 
 [这就是搜索引擎](https://book.douban.com/subject/7006719/)(Chinese Book)
-> This book is about the internal technology of popular science search engines. Although SEO does not need to understand the internal implementation of search engines, for some technical optimization, understanding the characteristics of some search engines will help you optimize your website from a macro perspective.
+> This book is about the internal technology of popular science search engines. Although Using SEO does not need to understand the internal implementation of search engines, for some technical optimization, understanding the characteristics of some search engines will help you optimize your website from a macro perspective.
 
 ## Article/Video
 
@@ -210,17 +210,17 @@ Of course, you also can add my WeChat account, then i will add you into WeChat g
 
 ## Traffic Monetization
 
-When there is a certain amount of SEO traffic(such as monthly PV reaching 10,000), how to monetize SEO traffic is a more important topic. Gernerally speaking, we can integrate [Internet Advertising](https://www.bmpi.dev/dev/what-is-internet-advertising/) through advertising platforms such as Google Adsense.
-This CPM/CPC is generally not high, Advertising CPM/CPC depends on the content/region of website. The CPM/CPC range of different content ads is between $0.3-$2.0/$0.2-$15.
+When there is a certain amount of SEO traffic(such as monthly PV reaching 10,000), how to monetize SEO traffic becomes a more important topic. Gernerally speaking, we can integrate [Internet Advertising](https://www.bmpi.dev/dev/what-is-internet-advertising/) through advertising platforms such as Google Adsense.
+This CPM/CPC is generally not high. The Advertising CPM/CPC depends on the content/region of website. The CPM/CPC range of different content ads is between $0.3-$2.0/$0.2-$15.
 
 ![](https://img.bmpi.dev/91bc8569-0fdc-ea98-478e-33d63205f340.png)
 
-The purpose of the traffic site is to improve [RPM](https://tg.bmpi.dev/web_cpc/420.html). In addition to advertising, the website can also access Affiliate and selling products(members, courses) to increase RPM.
+The purpose of the traffic site is to improve [RPM](https://tg.bmpi.dev/web_cpc/420.html). In addition to advertising, the website can also access Affiliate and sell products(members, courses) to increase RPM.
 
 ## Other
 
 [Google Algorithm Update History](https://moz.com/google-algorithm-change)
-> Currently, Google has some of more important Google algorithms include the Panda algorithm, the Penguin algorithm, and the Hummingbird algorithm.
+> Currently, Google has some of more important Google algorithms including the Panda algorithm, the Penguin algorithm, and the Hummingbird algorithm.
 > This is the page that Moz tracks updates to Google's search algorithm.
 
 [State of the Web](https://httparchive.org/reports/state-of-the-web)
