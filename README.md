@@ -1,5 +1,7 @@
 # awesome-seo
 
+[中文/Chinese](./README_CN.md)
+
 The checklists has being sort out, since i systemly study Google SEO in 2019.
 The checklists would be update from time to time. 
 Meanwhile, welcome to check in PR, and share the great links about SEO.
@@ -8,6 +10,7 @@ Although there has difference between Baidu SEO and Google SEO. When you learned
 
 <details>
   <summary>SEO, Why Do You Need It?</summary>
+
 On the Internet, website traffic can be turned into money. When you have mastered certain SEO techniques, you will have the advantages as follow:  
   - Increase website traffic, then monetize traffic to make money, and build your passive income.
   - If you has individual product, and the product need to be marketed and promoted. SEO can help you get free and steadily growing traffic.
@@ -25,10 +28,12 @@ For SEO masters, maybe those amount of website traffic is too ordinary. However,
 
 <details>
   <summary>Telegram/WeChat Group</summary>
+
 Around the world, some teams and individuals are doing research in SEO.
-If interested in SEO or traffic acquisition, you can join my telegram group.[web_cpc](https://t.me/web_cpc)
+If interested in SEO or traffic acquisition, you can join my telegram group [web_cpc](https://t.me/web_cpc).
 Of course, you also can add my WeChat account, then i will add you into WeChat group.
-  ![](https://img.bmpi.dev/755b406f-43ae-e382-e13c-547116d3e7d5.png)
+
+![](https://img.bmpi.dev/755b406f-43ae-e382-e13c-547116d3e7d5.png)
 </details>
 
 <details>
@@ -41,7 +46,7 @@ Of course, you also can add my WeChat account, then i will add you into WeChat g
 
 ## Basic Concept
 
-![What is SEO](./out/Seo/Seo.png)
+![What is SEO](https://img.bmpi.dev/4351f5c8-cc00-d2a8-a75f-9010c9367893.png)
 
 ## Tutorials
 
