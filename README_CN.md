@@ -33,6 +33,14 @@
 </details>
 
 <details>
+  <summary>SEO资源大礼包</summary>
+  
+  加入电报/微信群领取此礼包。
+  
+  ![](https://img.bmpi.dev/4524f561-8feb-4fd3-852a-603dacc9b5c0.png)
+</details>
+
+<details>
   <summary>Stargazers over time</summary>
 
 
