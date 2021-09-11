@@ -37,6 +37,14 @@ Of course, you can also add my WeChat account, so that I will add you into WeCha
 </details>
 
 <details>
+  <summary>SEO Resource Pack</summary>
+  
+  Join the Telegraph/WeChat group to receive this gift package.
+  
+  ![](https://img.bmpi.dev/4524f561-8feb-4fd3-852a-603dacc9b5c0.png)
+</details>
+
+<details>
   <summary>Stargazers over time</summary>
 
   [![Stargazers over time](https://starchart.cc/madawei2699/awesome-seo.svg)](https://starchart.cc/madawei2699/awesome-seo)
