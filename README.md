@@ -8,7 +8,7 @@ Meanwhile, welcome to check in PRs, and share the great links about SEO.
 
 There are differences between Baidu SEO and Google SEO. If you have learned the Google SEO, you would understand how to learn Baidu SEO.
 
-> Anything you want to discuss, you can join me on this [slack channel](https://join.slack.com/t/bmpidev/shared_invite/zt-1r38f90n5-bOp~RZqoMYiYMOtmKZsbcw).
+> Anything you want to discuss, you can join me on this [slack channel](https://join.slack.com/t/bmpidev/shared_invite/zt-1regrk2ie-NiHipq2gflLrycWcmVG7XQ).
 
 <details>
   <summary>SEO, Why Do You Need It?</summary>
