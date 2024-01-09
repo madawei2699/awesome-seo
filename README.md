@@ -69,6 +69,9 @@ Of course, you can also add my WeChat account, so that I will add you into WeCha
 [The Authority Site System 3.0](https://www.authorityhacker.com/system/)
 > This course is about how to build an authority site ( Niche Site) from scratch and make money from it. SEO is only a part of it, it also includes Affiliates, Paid-advertising etc. (The course is pretty expensive, and I haven't started it yet)
 
+[A Technical SEO’s Guide to Crawl Budget Optimization](https://prerender.io/resources/free-downloads/white-papers/crawl-budget-guide/)
+> A comprehensive guide explaining the importance of crawl budgets in managing indexing for search engines, how it impacts website traffic, and provides optimization tips to improve online visibility and SEO results.
+
 
 ## Books
 
@@ -144,9 +147,6 @@ Of course, you can also add my WeChat account, so that I will add you into WeCha
 [authoritylabs](https://www.authoritylabs.com/)
 > Track search engine rankings / Solve the problem of GA that keywords not provided.
 
-[alexa](https://www.alexa.com/)
-> View website traffic.  The data comes from the Alexa toolbar installed on the user's system, or it may be obtained from the ISP manufacturer.
-
 [quantcast](https://www.quantcast.com/)
 
 > Website Traffic View Tools. 
@@ -155,6 +155,9 @@ Of course, you can also add my WeChat account, so that I will add you into WeCha
 > SEO Chrome Plugin that published by semrush. 
 
 [spyfu](https://www.spyfu.com/)
+
+[Prerender](https://prerender.io/)
+> Prerender serves 100% cached versions of your web pages to search engine bots that have problems executing JavaScript.
 
 ## Chrome Plugins
 
@@ -234,5 +237,4 @@ The purpose of the traffic site is to improve [RPM](https://tg.bmpi.dev/web_cpc/
 > This is the page that Moz tracks updates to Google's search algorithm.
 
 [State of the Web](https://httparchive.org/reports/state-of-the-web)
-> Some reports on important statistics related to HTTP on the Internet, published by httparchive. 
-
+> Some reports on important statistics related to HTTP on the Internet, published by httparchive.
