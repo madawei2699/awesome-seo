@@ -24,12 +24,13 @@
 </details>
 
 <details>
-  <summary>电报/微信群交流</summary>
-
-
-  国内正经搞SEO的已经不多了，个人开发者搞SEO的更是少之又少，如果对SEO/流量获取感兴趣，可以加入我的电报群组：[web_cpc](https://t.me/web_cpc)。也可以加我的个人微信拉你进微信群组：
-
+  <summary>微信/电报/Discord交流</summary>
+  
   ![](https://img.bmpi.dev/a0ff26e9-23ec-ffee-08b2-22c19c026e8a.png)
+
+  [Telegram](https://t.me/bmpi_group)
+
+  [Discord](https://discord.gg/S9mzJfqfKD)
 </details>
 
 <details>
