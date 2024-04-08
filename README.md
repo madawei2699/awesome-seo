@@ -29,13 +29,13 @@ For SEO masters, maybe those amount of website traffic is too ordinary. However,
 </details>
 
 <details>
-  <summary>Telegram/WeChat Group</summary>
-
-Around the world, some teams and individuals are doing researches in SEO.
-If interested in SEO or traffic acquisition, you can join my telegram group [web_cpc](https://t.me/web_cpc).
-Of course, you can also add my WeChat account, so that I will add you into WeChat group.
+  <summary>WeChat/Telegram/Discord</summary>
 
 ![](https://img.bmpi.dev/755b406f-43ae-e382-e13c-547116d3e7d5.png)
+
+[Telegram](https://t.me/bmpi_group)
+
+[Discord](https://discord.gg/S9mzJfqfKD)
 </details>
 
 <details>
